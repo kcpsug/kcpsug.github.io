@@ -10,7 +10,7 @@ We did it! First meetup was a success, thanks to everyone who came and to the pr
 
 Honestly, I feel like those two items would be enough to cover a 1 - 2 hour block of time. Depending on how much community involvement for item 2 would help gauge how often we meet as a group. As always, I'm open to feedback but feel its necessary to say what I'm thinking to start the conversation. :)
 
-Finally, slide decks. They can be found here: https://github.com/kcpsug/kcpsug.github.io/_slides
+Finally, slide decks. They can be found here: https://github.com/kcpsug/kcpsug.github.io/tree/master/_slides
 
 
 [Robin Haberstroh]: http://www.twitter.com/strohland
